@@ -1,7 +1,7 @@
 - 👋 Hello I’m @starfish-designer
 - 👀 I’m interested in Programming, Web Development & Sci-fi
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on for while nobody
+- 💞️ I’m looking to collaborate on Java, HTML & CSS
 - 📫 to reach me contact-me via e-mail rafaelweb777@gmail.com
 
 <!---
